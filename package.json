@@ -1,0 +1,40 @@
+{
+  "name": "react-mark.js",
+  "version": "9.0.7",
+  "description": "Text highlighter for React",
+  "author": "Aakash <appsparkler@gmail.com>",
+  "homepage": "https://react-mark-js.netlify.app/?path=%2Fdocs%2Fintroduction--single-string",
+  "license": "ISC",
+  "keywords": [
+    "marker",
+    "mark.js",
+    "react",
+    "keyword",
+    "highlighter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appsparkler-united-tech/react-mark.js"
+  },
+  "bugs": {
+    "url": "https://github.com/appsparkler-united-tech/react-mark.js/issues"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "unpkg": "dist/react-markjs.min.js",
+  "types": "dist/index.d.ts",
+  "style": "dist/style.css",
+  "scripts": {},
+  "dependencies": {
+    "react-mark.js": "^9.0.7"
+  },
+  "files": [
+    "dist",
+    "src",
+    "tsconfig.json"
+  ],
+  "peerDependencies": {
+    "mark.js": "~8.11.1",
+    "react": ">=16.8.0"
+  }
+}
