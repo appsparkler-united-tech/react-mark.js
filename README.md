@@ -27,7 +27,7 @@ yarn add mark.js react-mark.js
 # ↘️ Importing Components
 
 ```jsx
-import { Marker } from "react-mark.js"";
+import { Marker } from "react-mark.js";
 ```
 
 # 🖌 Basic Example
